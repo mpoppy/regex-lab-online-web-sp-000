@@ -4,7 +4,7 @@ end
 
 #returns an arrary starting with un and ending with ing in the same word
 def words_starting_with_un_and_ending_with_ing(text)
-  text.grep(/pattern/) { |match|  }
+  
 end
 
 #return array with words 5 letters long
